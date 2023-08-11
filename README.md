@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @joaormoura
-- 👀 I’m interested in medtech solutuons
+- 👀 I’m interested in medtech solutions
 - 🌱 I’m currently learning C and C++.
